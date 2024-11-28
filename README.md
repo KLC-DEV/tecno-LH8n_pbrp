@@ -1,4 +1,4 @@
-# PBRP tree for TECNO LH8n (LH8n)
+# PBRP tree for TECNO Pova 5 Pro (LH8n)
 
 Basic   | Spec Sheet
 -------:|:-------------------------
